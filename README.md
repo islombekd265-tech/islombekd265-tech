@@ -1,4 +1,4 @@
-[24.06.2026 15:59] S2G_STAR: # ⚡ Senior-Level Frontend Engineer | Architecture & Automation
+ # ⚡ Frontend Engineer | Architecture & Automation
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=1f232a&height=220&section=header&text=Islombek%20Dilmurodov&fontSize=45&animation=twinkling&fontColor=61DAFB" width="100%" alt="Header" />
