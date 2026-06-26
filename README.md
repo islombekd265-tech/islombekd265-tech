@@ -14,6 +14,7 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=islombekd265-tech&color=blueviolet&style=for-the-badge&label=👁️+VIEWS)
 ![GitHub followers](https://img.shields.io/github/followers/islombekd265-tech?color=FF6B6B&logo=github&style=for-the-badge&label=👥+FOLLOWERS)
 ![GitHub stars](https://img.shields.io/github/stars/islombekd265-tech?color=FFD700&style=for-the-badge&label=⭐+STARS)
+[![Portfolio](https://img.shields.io/badge/🌐-PORTFOLIO-blueviolet?style=flat-square&labelColor=black&color=6f42c1)](https://spontaneous-marshmallow-a27e14.netlify.app/)
 
 </div>
 
